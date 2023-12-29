@@ -10,7 +10,7 @@ nav:
 # Menu 目錄
 menu:
   Home: / || fas fa-home
-  # Archives: /archives/ || fas fa-archive
+  Archives: /archives/ || fas fa-archive
   # Tags: /tags/ || fas fa-tags
   # Categories: /categories/ || fas fa-folder-open
   # List||fas fa-list:
@@ -34,7 +34,7 @@ code_word_wrap: false
 #   icon: link || the description || color
 social:
   # fab fa-github: https://github.com/xxxxx || Github || '#24292e'
-  # fas fa-envelope: mailto:xxxxxx@gmail.com || Email || '#4a7dbe'
+  fas fa-envelope: mailto:wyvwly@gmail.com || Email || '#4a7dbe'
 
 # Image (圖片設置)
 # --------------------------------------
@@ -87,7 +87,7 @@ cover:
   position: both
   # When cover is not set, the default cover is displayed (當沒有設置cover時，默認的封面顯示)
   default_cover:
-    # - https://i.loli.net/2020/05/01/gkihqEjXxJ5UZ1C.jpg
+    - https://i.loli.net/2020/05/01/gkihqEjXxJ5UZ1C.jpg
 
 # Replace Broken Images (替換無法顯示的圖片)
 error_img:
